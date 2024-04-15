@@ -132,6 +132,5 @@ int main() {
     cin >> x1;
     double wynik = funkcja.obliczWartosc(x1);
     cout << "Wartosc funkcji w punkcie " << x1 << " wynosi: " << wynik << endl;
-
     return 0;
 }
