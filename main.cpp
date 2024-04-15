@@ -123,6 +123,7 @@ public:
 
 int main() {
     //Zad.10
+    cout << "<<Zadania od 10 do 14>>" << endl;
     cout << "<<Zadanie 10>> " << endl;
     double a, b, c;
     cout << "Podaj wspolczynniki funkcji kwadratowej (a, b, c): ";
