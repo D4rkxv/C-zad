@@ -180,10 +180,8 @@ int main() {
     cin >> poprawne_odp;
 
     uczen.wczytajDane(imie2, nazwisko2, liczba_pytan, poprawne_odp);
-
     double procent_poprawnych = uczen.obliczProcentPoprawnych();
-
     cout << "Procent poprawnych odpowiedzi: " << procent_poprawnych << "%" << endl;
-
     return 0;
+
 }
