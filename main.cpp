@@ -94,6 +94,7 @@ public:
 };
 
 int main() {
+    cout << "<<Zadania od 1 do 9>>" << endl;
     cout << "<<Zadanie 1,2>> " << endl;
     cout << "Podaj boki prostopadloscianu: ";
     int a, b, c;
